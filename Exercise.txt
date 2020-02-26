@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+Terminal in my own words is a hardware that allow the user to enter commands in the command line that will allow them to use any operation systems. Some of those commands are adding to deleting directories and files. 
+
+2. What is the major difference between Git and Github?
+The difference between Git is the version control system that allows you to have different
+Versions of different files, git is also a local repository, and git is distributed and can exist in many different computers. Github uses Git and clones the repository, always online so without internet cannot be used, Github adds user management, and also tool integration. 
+
+3. Why do we use Github?
+We use Github because slack can integrated into Github so every time someone pushes a new version over on Github or maybe you merge two branches. You will get a notification over on slack. Also since worked in groups we will be allowed to have a master copy and we can clone that master copy so that we can make edits. So that when coming together we can make decisions on what to keep or change on the master copy.
